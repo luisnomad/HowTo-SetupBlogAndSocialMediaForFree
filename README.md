@@ -39,5 +39,16 @@ Okay, maybe these answers have brought even more questions. Like, magically how?
 
 **If you already know IFTTT, you can completely skip the following part**
 
+# Automation, or "self-managed" Social Media accounts
 
+Well, not really "self-managed", but almost! Would you like to publish something in your blog and having it posted automatically to Twitter and Facebook? How about posting videos on your blog that you've liked on YouTube? Or, how about those Instagram pictures? Would you like to have them also in your blog without doing anything at all? How about featuring those Instagram snaps you've liked in both your Facebook page and blog at once? That's automation, and it doesn't end here. You can add a hundred actions to keep it all connected and working together without effort.
 
+Yes, it's possible, thanks to [IFTTT](https://ifttt.com). This is what the free service can do for you:
+
+> IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, YouTube and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
+An example "recipe" might consist of sending an e-mail message if the IFTTT user tweets using a certain hashtag. Or, if the user is tagged by someone on Facebook, then that photo will be added to the user's cloud-based photo archive.
+> - Wikipedia
+
+IFTTT has brought a whole new way of doing things. It "makes the Internet work for you" (I think this was their marketing pitch when they started). Now it has evolved a lot, and you can even connect your twitter activity to your home's lights. It's just crazy.
+
+But anyway, I hope you understand now that having a lot of Social Media accounts does not mean a lot of work, because you can set it all up to almost work on its own thanks to IFTTT.
