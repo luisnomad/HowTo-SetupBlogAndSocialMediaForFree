@@ -48,7 +48,7 @@ Yes, it's possible, thanks to [IFTTT](https://ifttt.com). This is what the free 
 
 > IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, YouTube and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
 An example "recipe" might consist of sending an e-mail message if the IFTTT user tweets using a certain hashtag. Or, if the user is tagged by someone on Facebook, then that photo will be added to the user's cloud-based photo archive.
-> - Wikipedia
+> (Wikipedia)
 
 IFTTT has brought a whole new way of doing things. It "makes the Internet work for you" (I think this was their marketing pitch when they started). Now it has evolved a lot, and you can even connect your twitter activity to your home's lights. It's just crazy.
 
