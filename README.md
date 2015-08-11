@@ -54,7 +54,7 @@ IFTTT has brought a whole new way of doing things. It "makes the Internet work f
 
 But anyway, I hope you understand now that having a lot of Social Media accounts does not mean a lot of work, because you can set it all up to almost work on its own thanks to IFTTT.
 
-### Before you start...
+## Before you start...
 
 Before you start, a small pause here. Your username. It's not abolutely vital but highly recommended that you use the same username for all accounts you are about to create. Especially when the service or tool creates an accessible profile for you. Having hte same username not only avoids the problem of remembering how to log yourself into the service, it also helps building your brand and keeps you "findable".
 
