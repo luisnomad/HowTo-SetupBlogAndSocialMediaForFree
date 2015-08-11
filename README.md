@@ -26,6 +26,7 @@ So let's start with a basic checklist of all the stuff I will cover. You don't n
   * [ ] YouTube channel
 * [ ] Automation, so your content spreads across channels (the Social Media accounts above)
 * [ ] Extra security to protect it all
+* [ ] A URL shortener (for vanity URL's)
 * [ ] Some extra, optional bits to make it look even more profesional! (however, this might not be free)
 
 ### Why do I need all of that?
@@ -35,7 +36,7 @@ Well, you might think that's a lot of stuff and probably your first thought is t
 * You just worry about writing in your blog. All the other stuff will happen magically.
 * Writing content is not easy, so you don't only need to commit yourself to find the time to do it. You also need to spread the word across all popular channels.
 
-Okay, maybe these answers have brought even more questions. Like, magically how? What do I need a YouTube account for if I am not uploading videos? So to finally convince you to go ahead with all the steps. I will start with the "Automation" part, or at least I will explain it to you so you can see the benefits and forget about spending your day posting stuff on a thousand channels. 
+Okay, maybe these answers have brought even more questions. Like, magically how? What do I need a YouTube account for if I am not uploading videos? So to finally convince you to go ahead with all the steps. I will start with the "Automation" part, or at least I will explain it to you so you can see the benefits (and you'll forget about spending your day posting stuff on a thousand channels).
 
 **If you already know IFTTT, you can completely skip the following part**
 
@@ -52,3 +53,13 @@ An example "recipe" might consist of sending an e-mail message if the IFTTT user
 IFTTT has brought a whole new way of doing things. It "makes the Internet work for you" (I think this was their marketing pitch when they started). Now it has evolved a lot, and you can even connect your twitter activity to your home's lights. It's just crazy.
 
 But anyway, I hope you understand now that having a lot of Social Media accounts does not mean a lot of work, because you can set it all up to almost work on its own thanks to IFTTT.
+
+*** Before you start...
+
+Before you start, a small pause here. Your username. It's not abolutely vital but highly recommended that you use the same username for all accounts you are about to create. Especially when the service or tool creates an accessible profile for you. Having hte same username not only avoids the problem of remembering how to log yourself into the service, it also helps building your brand and keeps you "findable".
+
+So, choose your username wisely, and, if possible, make it similar (or same than) your website URL. For example, I use "luisnomad" everywhere, so if you want to find me in a certain Social Network, you probably will just by using my unique "handle". Or if you google ["luisnomad"](https://www.google.com/?q=luisnomad&gws_rd=cr&ei=d9rJVfvVDob3UpzBrMgH#safe=off&q=luisnomad), you'll see everything (public) about me. Your username is your main keyword.
+
+Okay, let's proceed!
+
+*** Set up your IFTTT account
