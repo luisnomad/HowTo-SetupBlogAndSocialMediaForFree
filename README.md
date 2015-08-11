@@ -15,18 +15,18 @@ So let's start with a basic checklist of all the stuff I will cover. You don't n
 
 ## What will you have after finishing all the steps?
 
-* Blog with..
-  * Google Analytics
-  * Comment moderation
-  * A nice looking custom theme
-* Supporting Social Media accounts
-  * Twitter  
-  * Instagram
-  * Facebook page
-  * YouTube channel
-* Automation, so your content spreads across channels (the Social Media accounts above)
-* Extra security to protect it all
-* Some extra, optional bits to make it look even more profesional! (however, this might not be free)
+* [ ] Blog with..
+  * [ ] Google Analytics
+  * [ ] Comment moderation
+  * [ ] A nice looking custom theme
+* [ ] Supporting Social Media accounts
+  * [ ] Twitter  
+  * [ ] Instagram
+  * [ ] Facebook page
+  * [ ] YouTube channel
+* [ ] Automation, so your content spreads across channels (the Social Media accounts above)
+* [ ] Extra security to protect it all
+* [ ] Some extra, optional bits to make it look even more profesional! (however, this might not be free)
 
 ### Why do I need all of that?
 
