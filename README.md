@@ -63,3 +63,27 @@ So, choose your username wisely, and, if possible, make it similar (or same than
 Okay, let's proceed!
 
 ## Set up your IFTTT account
+
+We'll just create the account now, later on we'll setup all the automation (recipes) very easily. 
+
+* Go to [IFTTT](https://ifttt.com/join) and create your profile.
+* Go to [Preferences > Settings](https://ifttt.com/preferences/settings) and change your username as we discussed.
+* Verify your email address (a verification link has been sent to your inbox after registering)
+
+That's it, for now. 
+
+## Create your blog
+
+I am speaking like if creating a blog was easily done with a couple of clicks... Well, yes, it really takes a few clicks (and some minor typing) to have your blog ready to rock. In this tutorial, we'll be setting up a Tumblr blog because it's simple and serves our purposes, but you might as well use WordPress or any other system if you prefer it. Most of the instructions explained in this guide can be applied to WordPress with little differences.
+
+So, head to [Tumblr](https://www.tumblr.com/register). All it takes is typing your username, email and password. That's it. In this case, the username is more important than ever, because it happens to be the URL (the address) of your blog, using this formula:
+
+```
+http://username.tumblr.com
+```
+
+For example, could you guess my Tumblr URL? Super easy: http://luisnomad.tumblr.com/ (although I am using a custom subdomain, that I will explain later: http://photos.luisnomad.com)
+
+Anyway, you have you blog! Yes, that's all it took. If you're not familiar with Tumblr, you might want to spend a little while playing around with it. Tumblr allows people to "follow" you (subscribe to your posts). They can also like your content and repost it (it will show up in their blogs, but always pointing to your blog as the original source). You can do the same with other people's posts.
+
+Each post has a permalink (a URL that points to that post within your blog), a title, a description, media (images, video, sound) and hashtags. You might publish posts inmediately after hitting the Publish button, or you can add them to a queue, and they will be posted at a given time (that you can configure). Your activity within Tumblr can be seen in your dashboard, where you can also see what your followers -and the people you follow- are doing with your/their content. Also, all those actions can be turned into IFTTT recipes, so your blog can react to stuff going on, all behind the scenes without any effort from your side.
