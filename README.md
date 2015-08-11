@@ -40,7 +40,7 @@ Okay, maybe these answers have brought even more questions. Like, magically how?
 
 **If you already know IFTTT, you can completely skip the following part**
 
-# Automation, or "self-managed" Social Media accounts
+## Automation, or "self-managed" Social Media accounts
 
 Well, not really "self-managed", but almost! Would you like to publish something in your blog and having it posted automatically to Twitter and Facebook? How about posting videos on your blog that you've liked on YouTube? Or, how about those Instagram pictures? Would you like to have them also in your blog without doing anything at all? How about featuring those Instagram snaps you've liked in both your Facebook page and blog at once? That's automation, and it doesn't end here. You can add a hundred actions to keep it all connected and working together without effort.
 
@@ -54,7 +54,7 @@ IFTTT has brought a whole new way of doing things. It "makes the Internet work f
 
 But anyway, I hope you understand now that having a lot of Social Media accounts does not mean a lot of work, because you can set it all up to almost work on its own thanks to IFTTT.
 
-*** Before you start...
+### Before you start...
 
 Before you start, a small pause here. Your username. It's not abolutely vital but highly recommended that you use the same username for all accounts you are about to create. Especially when the service or tool creates an accessible profile for you. Having hte same username not only avoids the problem of remembering how to log yourself into the service, it also helps building your brand and keeps you "findable".
 
@@ -62,4 +62,4 @@ So, choose your username wisely, and, if possible, make it similar (or same than
 
 Okay, let's proceed!
 
-*** Set up your IFTTT account
+## Set up your IFTTT account
