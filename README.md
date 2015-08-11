@@ -82,8 +82,52 @@ So, head to [Tumblr](https://www.tumblr.com/register). All it takes is typing yo
 http://username.tumblr.com
 ```
 
-For example, could you guess my Tumblr URL? Super easy: http://luisnomad.tumblr.com/ (although I am using a custom subdomain, that I will explain later: http://photos.luisnomad.com)
+For example, could you guess my Tumblr URL? Super easy: http://luisnomad.tumblr.com/
 
 Anyway, you have you blog! Yes, that's all it took. If you're not familiar with Tumblr, you might want to spend a little while playing around with it. Tumblr allows people to "follow" you (subscribe to your posts). They can also like your content and repost it (it will show up in their blogs, but always pointing to your blog as the original source). You can do the same with other people's posts.
 
-Each post has a permalink (a URL that points to that post within your blog), a title, a description, media (images, video, sound) and hashtags. You might publish posts inmediately after hitting the Publish button, or you can add them to a queue, and they will be posted at a given time (that you can configure). Your activity within Tumblr can be seen in your dashboard, where you can also see what your followers -and the people you follow- are doing with your/their content. Also, all those actions can be turned into IFTTT recipes, so your blog can react to stuff going on, all behind the scenes without any effort from your side.
+Each post has a [permalink](https://en.wikipedia.org/wiki/Permalink) (a URL that points to that individual post within your blog), a title, a description, media (images, video, sound) and [hashtags](https://en.wikipedia.org/wiki/Hashtag). You might publish posts inmediately after hitting the **Publish** button, or you can add them to a queue, and they will be posted at a given time (that you can configure). Your activity within Tumblr can be seen in your [Dashboard](https://www.tumblr.com/dashboard), where you can also see what your followers -and the people you follow- are doing with your/their content. Also, all those actions can be turned into IFTTT recipes, so your blog can react to stuff going on, all behind the scenes without any effort from your side.
+
+Don't log out just yet, we are going to add some features to your new awesome blog.
+
+### Add Analytics to your blog
+
+I am assuming that you own a GMAIL email address. That will grant you access to a huge number of free and awesome services, like Google Analytics. What is it and why you need it?
+
+In a nutshell, it's a reporting tool that will give you a lot of information about your visitors: how many people visit your site, where they come from, which pages in your blog are they visiting, and other super useful information such device type (desktop, mobile, tablet), even gender, age, etc. You can see a realtime report that shows how many people are in your blog at any given moment! Do you like the idea? Okay, so all you need is a "tracking ID". That's the one thing you need to tell Tumblr so you can start tracking your visitors' activity.
+
+Go to [Google Analytics](https://www.google.com/analytics) and create your account. After accepting Terms & Conditions and going through several simple/self-explanatory steps, you'll be taken to a Dashboard. Click on "Admin" and add your blog details. The page should look like this:
+
+![Getting your Tracking ID](https://raw.githubusercontent.com/luisnomad/HowTo-SetupBlogAndSocialMediaForFree/master/images/google-analytics.png)
+
+Notice that blue button that says "Get Tracking ID" at the bottom? It will take you to a page where you can get it. It looks something like: UA-00000000-0. Copy it at go back to Tumblr. You need to go to your blog settings and click on "Edit Appareance". If you can't find the button, just paste this in the URL:
+
+https://www.tumblr.com/settings/blog/username
+(Note: change "username" and write your actual username there, for example: https://www.tumblr.com/settings/blog/luisnomad)
+
+When you are there, click on "Edit Theme". It will take you to an editor where you can change your blog's configuration and details. For now, look for the "Google Analytics ID" in the left column, you should find it at the bottom of the page. Paste your Tracking ID and save your changes.
+
+Again, leave this page open, you'll need it for the next step.
+
+### Add a Comment Moderation system to your blog
+
+Before you go through this step, you should know that not all Tumblr themes are well integrated with comment hosting services, specifically **Disqus**, which is the one I am recommending here. When you setup a Tumblr account, the default theme (and most of the themes offered for free) have a field in the configuration to add a Disqus shortname. Check if it's the case for you, otherwise the integratin might be still possible but not that straightforward, and not covered in this guide.
+
+So what's [Disqus](https://disqus.com/)?
+
+> Disqus, Inc. (pronounced discuss) is a blog comment hosting service for web sites and online communities that uses a networked platform. The company’s platform includes various features, such as social integration, social networking, user profiles, spam and moderation tools, analytics, email notifications, and mobile commenting.
+> (Wikipedia)
+
+Basically it gives you a lot of control over the interactions within your blog. It lets you moderate comments, for example, and see all the feedback from your visitors in a single Dashboard. It also offers a way to participate in discussions or comment in other blogs while preserving your social identity, something that helps building your brand. You can integrate your Disqus account in many blogs and websites at once, so you control & oversee everything from the same place. Nice and handy.
+
+Let's start by creating your account. Again, choose your username wisely, because it will be your "screen name" when commenting or replying to your visitors' comments. Once you have your account, you have to "install Disqus" into Tumblr. To do so, navigate to this URL, changing "username" with you actual Disqus username:
+
+https://username.disqus.com/admin/settings/install/
+
+Choose "Tumblr", and follow the simple process. That will take you to a page with further instructions, but we only want one thing from there, the "shortname". Copy it and return to Tumblr. If you're not there already, go to Settings > Edit Appareance > Edit Theme. Then on the left column, scroll down until you see "Disqus shortname". Paste it there, and save your changes. You're all done!
+
+Play around a bit inside the Disqus panel, it's pretty straightforward. You might want to ask a friend with a Tumblr account to comment on your first awesome post to see what happens.
+
+## Social Media accounts
+
+Let's move on to the next step, creating your Social Media accounts (if you already have them, skip the registration bit, just log in).
