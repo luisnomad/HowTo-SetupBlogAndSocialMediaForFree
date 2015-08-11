@@ -1,3 +1,5 @@
+(work in progress! this page is not finished, and probably full of typos)
+
 ## How To Setup your Blog (and supporting Social Media accounts) For Free
 
 This is a small but complete tutorial for those who want to create content and are interested in having an Internet presence. Whether you want to be found because you're selling something, or because you want to market yourself, there is no doubt that one mandatory step is to be active on Social Media, and create original content. You can write about your ideas, your professional experience and show your porfolio and products, and the easiest way to do that is having a website. Maybe it doesn't make sense to you to have a full blown web with pages and sections, so a blog is more fit to your goals.
