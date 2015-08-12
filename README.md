@@ -111,6 +111,10 @@ When you are there, click on "Edit Theme". It will take you to an editor where y
 
 Again, leave this page open, you'll need it for the next step.
 
+Pssst! If you're in trouble getting that Tracking ID, this is the oficial guide from Google:
+
+https://support.google.com/analytics/answer/1032385?hl=en
+
 ### Add a Comment Moderation system to your blog
 
 Before you go through this step, you should know that not all Tumblr themes are well integrated with comment hosting services, specifically **Disqus**, which is the one I am recommending here. When you setup a Tumblr account, the default theme (and most of the themes offered for free) have a field in the configuration to add a Disqus shortname. Check if it's the case for you, otherwise the integratin might be still possible but not that straightforward, and not covered in this guide.
